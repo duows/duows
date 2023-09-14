@@ -1,4 +1,4 @@
-### Olá, eu sou Henrique Souza 
+# Olá, eu sou Henrique Souza 
 
 <!--
 **duows/duows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
