@@ -1,4 +1,4 @@
-# Olá, eu sou Henrique Souza 
+# Hello my name is Henrique Souza 
 
 **About me**
 
