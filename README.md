@@ -1,3 +1,15 @@
+# Hello my name is Henrique Souza 
+
+**About me**
+
+- Undergraduate student in computer engineering
+
+- Studying competitive programming
+
+- Studying robotic
+
+- Game developer
+
 ## Skills
 
 | Back-End | Front-End | Database | IDE | AI
