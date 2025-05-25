@@ -1,21 +1,80 @@
-# Hello my name is Henrique Souza 
+# Hello my name is Henrique Souza 👋  
+I'm from Brazil 🇧🇷
+
+---
 
 **About me**
 
-- Undergraduate student in computer engineering
+- Undergraduate student in computer engineering  
+- Studying competitive programming  
+- Studying robotic  
+- Game developer  
 
-- Studying competitive programming
+---
 
-- Studying robotic
-
-- Game developer
+<img align="right" height="150" src="https://pa1.aminoapps.com/6918/7b87df12b47044a832026316b01147803a6814car1-443-331_hq.gif" />
 
 ## Skills
 
-| Back-End | Front-End | Database | IDE | AI |
-| --- | --- | --- | --- | --- |
-|<span><img src="https://img.shields.io/badge/-Java-blueviolet?style=flat&logo=openjdk&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=python&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/JSON-00000?style=round-square&logo=JSON&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/-GO-blueviolet?style=flat&logo=go&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/-React-61DAFB.svg?style=flat&logo=React&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=html5&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=css3&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Oracle-F80000.svg?style=round-square&logo=oracle&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=round-square&logo=Eclipse&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=round-square&logo=Visual Studio Code&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=round-square&logo=IntelliJ IDEA&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=round-square&logo=Postman&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/PyCharm-000000.svg?style=round-square&logo=pycharm&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=round-square&logo=jupyter&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=round-square&logo=Insomnia&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/-Data Analysis-green"/></span> <span><img src="https://img.shields.io/badge/-Machine Learning-grey"/></span> |
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+</div>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=duows&layout=compact&show_icons=true&include_all_commits=true&theme=panda&hide_border=true" alt="Henrique's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duows&theme=panda&hide_border=true" /></a> |
-| ------------- | ------------- |
+---
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duows&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duows&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+## Latest Medium Posts
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=duows&theme=dark" alt="Layout with last medium posts" />
+</div>
