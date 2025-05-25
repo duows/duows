@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://pa1.aminoapps.com/6918/7b87df12b47044a832026316b01147803a6814car1-443-331_hq.gif"  />
+<img align="right" height="150" src="./assets/pikachu.gif"  />
 
 ###
 
