@@ -1,9 +1,5 @@
 <h1 align="left">Hi 👋! Hello my name is Henrique Souza and I'm from Brazil</h1>
 
-###
-
-<br clear="both">
-
 <h2 align="left">About me</h2>
 
 ###
