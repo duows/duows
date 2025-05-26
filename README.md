@@ -9,7 +9,6 @@
 ###
 
 <img align="right" height="150" src="./assets/pikachu.gif"  />
-<img align="right" height="150" src="https://imgur.com/a/QQAVnUd"  />
 
 ###
 
