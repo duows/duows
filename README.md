@@ -59,17 +59,17 @@
 
 <p align="left"><b>Frameworks & Libraries</b></p>
 <div align="left">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/nestjs-original.svg" height="30" alt="express logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 <img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/expressjs-original.svg" height="30" alt="nestjs logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 <img width="12" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
 <p align="left"><b>Game Development</b></p>
