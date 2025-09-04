@@ -2,8 +2,6 @@
 
 <br>
 
----
-
 ## 🌐 Connect with me
 <div align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/henriquejsouza/" target="_blank">
@@ -16,8 +14,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
-
----
 
 <br>
 
@@ -40,131 +36,83 @@
 
 <div align="center">
 
-<!-- GRID DE SKILLS -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+## 🚀 Skills
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino"/><br>
-    <sub>Arduino</sub>
-  </div>
+<div align="center">
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender"/><br>
-    <sub>Blender</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c"/><br>
-    <sub>C</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus"/><br>
-    <sub>C++</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3"/><br>
-    <sub>CSS3</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker"/><br>
-    <sub>Docker</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter"/><br>
-    <sub>Flutter</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github"/><br>
-    <sub>GitHub</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go"/><br>
-    <sub>Go</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="50" alt="godot"/><br>
-    <sub>Godot</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java"/><br>
-    <sub>Java</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript"/><br>
-    <sub>JavaScript</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin"/><br>
-    <sub>Kotlin</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux"/><br>
-    <sub>Linux</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql"/><br>
-    <sub>MySQL</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs"/><br>
-    <sub>Next.js</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs"/><br>
-    <sub>NestJS</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs"/><br>
-    <sub>Vue.js</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs"/><br>
-    <sub>Node.js</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php"/><br>
-    <sub>PHP</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python"/><br>
-    <sub>Python</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r"/><br>
-    <sub>R</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="rust"/><br>
-    <sub>Rust</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"/>
+  <img width="20"/>
 
-  <div style="text-align:center; width:100px; padding:15px; border-radius:12px; background:#1e1e1e;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript"/><br>
-    <sub>TypeScript</sub>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"/>
+  <img width="20"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
 
 </div>
-</div>
+
 
 <br>
 
