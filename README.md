@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋! My name is Henrique Souza and I'm from Brazil 🇧🇷</h1>
 
-<br>
-
 ## 🌐 Connect with me
 <div align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/henriquejsouza/" target="_blank">
@@ -15,8 +13,6 @@
   </a>
 </div>
 
-<br>
-
 ## 👨‍💻 About me
 
 <img align="right" height="160" src="./assets/pikachu.gif" alt="pikachu gif" style="margin-left: 20px;"/>
@@ -26,15 +22,6 @@
 - 🤖 Passionate about **Robotics**  
 - 🎮 **Game Developer**  
 
-<br><br>
-
----
-
-<br>
-
-## 🚀 Skills
-
-<div align="center">
 
 ## 🚀 Skills
 
@@ -113,12 +100,6 @@
 
 </div>
 
-
-<br>
-
----
-
-<br>
 
 ## 📊 GitHub Stats
 
