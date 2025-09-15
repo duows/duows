@@ -22,6 +22,9 @@
 - 🤖 Passionate about **Robotics**  
 - 🎮 **Game Developer**  
 
+## 💻 LeetCode
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=SEU_USUARIO&animated=true)
 
 ## 🚀 Skills
 
