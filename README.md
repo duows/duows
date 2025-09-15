@@ -24,7 +24,7 @@
 
 ## 💻 LeetCode
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=SEU_USUARIO&animated=true)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=duows&animated=true)
 
 ## 🚀 Skills
 
