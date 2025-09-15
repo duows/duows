@@ -24,7 +24,7 @@
 
 ## 💻 LeetCode
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=duows&animated=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/duows)
 
 ## 🚀 Skills
 
