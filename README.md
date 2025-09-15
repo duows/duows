@@ -24,7 +24,9 @@
 
 ## 💻 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/duows)
+<div align="center" style="margin-top: 20px;">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/duows)
+</div>  
 
 ## 🚀 Skills
 
